@@ -1,1 +1,1 @@
-# Justigen
+# JustiLM
