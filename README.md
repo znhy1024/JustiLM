@@ -55,10 +55,17 @@ After training, the script will automatically output the test results. You can a
 
 ## Citation
 
-If you use this code in your research, please cite our [paper]().
+If you use this code in your research, please cite our [paper](https://arxiv.org/abs/2401.08026).
 
 ```
-TBD
+@misc{zeng2024justilm,
+      title={JustiLM: Few-shot Justification Generation for Explainable Fact-Checking of Real-world Claims}, 
+      author={Fengzhu Zeng and Wei Gao},
+      year={2024},
+      eprint={2401.08026},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 ## Contact for issues
